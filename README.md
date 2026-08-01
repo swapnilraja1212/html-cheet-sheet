@@ -14,9 +14,8 @@ All three pages are cross-linked through a shared navigation bar and in-text lin
 
 ## Learn more
 
-This cheatsheet is a condensed companion to the full guides on **html5andcss3.org**:
+This cheatsheet is a condensed companion to the full guides on html5andcss3.org:
 
-- [html5andcss3.org — home](https://html5andcss3.org/)
 - [Complete HTML tutorial](https://html5andcss3.org/tutorials/html/)
 - [HTML tutorial as a PDF](https://html5andcss3.org/html-tutorial-pdf/)
 
